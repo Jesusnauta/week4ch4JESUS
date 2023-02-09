@@ -18,4 +18,23 @@ Actions
 Action
 Keyboard
 Key
-Entrega también un listado de responsabilidades.
+
+Listado de responsabilidades:
+
+- Info
+  Calling
+  Call ended
+
+- Display
+  Numeros (dentro del input).
+  Botones
+
+- Actions
+  Action:
+
+* Llamar
+* Colgar
+* Borrar
+
+- Keyboard
+  Pinta el boton
